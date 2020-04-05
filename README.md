@@ -1,5 +1,7 @@
 # JaePie-a-custom-file-launcher.
 This is JaePie, the first of my projects
+# Installation
+Open the installer file, click INSTALL NOW and the program will install. It will create an application and two folders. A programs folder and an importantfiles folder. If I say programs folder, i mean the one made by the program and not the windows one.
 # Registering Programs
 First you need to copy/move the program file into the programs folder. Then you need to do one of the two:
 # 1)
